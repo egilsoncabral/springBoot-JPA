@@ -1,2 +1,2 @@
 # springBoot-JPA
-Projeto de treinamento do springboot
+Demo springboot project
